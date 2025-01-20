@@ -1,0 +1,4 @@
+windturbine.py
+.env
+logs
+dags/__pycache__
